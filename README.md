@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0287-find-the-duplicate-number](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
