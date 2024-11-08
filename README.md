@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0001-two-sum) |
+| [0045-jump-game-ii](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0045-jump-game-ii) |
 | [0139-word-break](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -81,10 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0045-jump-game-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0045-jump-game-ii) |
 | [0139-word-break](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0139-word-break) |
 ## Trie
 |  |
