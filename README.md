@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0045-jump-game-ii](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0045-jump-game-ii) |
 | [0139-word-break](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0217-contains-duplicate) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0287-find-the-duplicate-number](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0139-word-break) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
