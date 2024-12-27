@@ -119,8 +119,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
