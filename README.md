@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
+| [2358-number-of-ways-to-split-array](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/2465-shifting-letters-ii) |
 ## Hash Table
 |  |
@@ -134,5 +135,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2358-number-of-ways-to-split-array](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/2465-shifting-letters-ii) |
 <!---LeetCode Topics End-->
