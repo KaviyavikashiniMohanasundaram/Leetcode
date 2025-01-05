@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
+| [2465-shifting-letters-ii](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/2465-shifting-letters-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0290-word-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2465-shifting-letters-ii](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/2465-shifting-letters-ii) |
 ## Counting
 |  |
 | ------- |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0110-balanced-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [2465-shifting-letters-ii](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/2465-shifting-letters-ii) |
 <!---LeetCode Topics End-->
