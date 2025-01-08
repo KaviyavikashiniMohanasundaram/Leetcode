@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [2358-number-of-ways-to-split-array](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/2465-shifting-letters-ii) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2465-shifting-letters-ii](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/2465-shifting-letters-ii) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Counting
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0139-word-break) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Memoization
 |  |
 | ------- |
@@ -137,4 +140,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2358-number-of-ways-to-split-array](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/2465-shifting-letters-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## String Matching
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
