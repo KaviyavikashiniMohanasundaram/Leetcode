@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [2509-minimize-xor](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/2509-minimize-xor) |
 ## Stack
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0045-jump-game-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2509-minimize-xor](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/2509-minimize-xor) |
 ## Dynamic Programming
 |  |
 | ------- |
