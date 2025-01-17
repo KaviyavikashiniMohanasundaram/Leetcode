@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0126-word-ladder-ii](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0139-word-break](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0139-word-break) |
+| [0257-binary-tree-paths](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0290-word-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0077-combinations) |
 | [0126-word-ladder-ii](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0126-word-ladder-ii) |
+| [0257-binary-tree-paths](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -130,17 +132,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/KaviyavikashiniMohanasundaram/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Prefix Sum
 |  |
 | ------- |
